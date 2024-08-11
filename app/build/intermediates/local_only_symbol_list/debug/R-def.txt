@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id audio_data_rv
+id books_data_rv
+id format
+id format_edit
+id identifier
+id identifier_edit
+id language
+id language_edit
+id name
+id name_edit
+id tabLayout
+id viewPager
+layout activity_main
+layout fragment_audio
+layout fragment_books
+layout list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SampleBooks
+style Theme.SampleBooks
+xml backup_rules
+xml data_extraction_rules
